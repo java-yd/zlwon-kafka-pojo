@@ -10,4 +10,6 @@ public class MessageConstant {
 	
 	public   static  final   Integer   ADD_CHARACTERISTIC_TYPE = 1; //添加物性标签
 	
+	public   static  final   Integer   ADD_DEALERDQUOTATION_TYPE = 1; //添加物性报价单
+	
 }
